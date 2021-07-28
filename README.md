@@ -6,8 +6,7 @@
 ## 📢Introduce myself
 
 - 🙂 My name is Vishnu
-- 💫 I have 20 years old 
-- 🚩 I am a beginner in this field
+- 🚩 I'm a beginner in this field
 - 📍 I'm from Kayamkulam,Kerala,India🇮🇳
 - 🏫 High School at Sree Narayana Central School Kayamkulam
 - 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
