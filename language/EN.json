@@ -227,10 +227,10 @@
             "UPDATE": "*Meenakshi is completely up-to-date💁🏻‍♀️!*",
             "NEW_UPDATE": "*⚠️New update available for Meenakshi Mol👩🏻‍🔧!*\n \n```Type .update now for update Meenakshi(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "👩🏻‍🔧 Updating Meenakshi...Build Started by user...🌈",
+            "UPDATING": "```👩🏻‍🔧 Updating Meenakshi...Build Started by user...```🌈",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "```✅  Updated! Build succeeded💁🏻‍♀️```",
-            "UPDATED_LOCAL": "```✅ Updated! Build succeeded💁🏻‍♀️```",
+            "UPDATED": "```✅Updated! Build succeeded💁🏻‍♀️```",
+            "UPDATED_LOCAL": "```✅Updated! Build succeeded💁🏻‍♀️```",
             "AFTER_UPDATE": "```Meenakshi Restarting 🙋🏻‍♀️!```",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
