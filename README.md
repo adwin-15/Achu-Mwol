@@ -5,7 +5,7 @@
 
 ## 📢Introduce myself
 
-- 🙂 My name is Vishnu
+- 🙂 I'm Vishnu Prasad
 - 🚩 I'm a beginner in this field
 - 📍 From Kayamkulam,Kerala,India🇮🇳
 - 🏫 High School at Sree Narayana Central School Kayamkulam
