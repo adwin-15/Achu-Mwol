@@ -7,7 +7,7 @@
 
 - 🙂 My name is Vishnu
 - 🚩 I'm a beginner in this field
-- 📍 I'm from Kayamkulam,Kerala,India🇮🇳
+- 📍 From Kayamkulam,Kerala,India🇮🇳
 - 🏫 High School at Sree Narayana Central School Kayamkulam
 - 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
 
