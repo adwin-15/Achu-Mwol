@@ -32,12 +32,12 @@
             "value": "true"
         },
         "ANTİ_LİNK": {
-            "description": "Link Engelleme Sistemi. Link Blocking System.",
+            "description": "Linkukal Block aakan. Link Blocking System.",
             "required": true,
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
+            "description": "Whatsapp inte About sectionil date time maarikondirikum set cheyyan true kodukkuka. Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
         },
@@ -47,27 +47,27 @@
             "value": "^[.!;]"
         },
         "FULL_EVA": {
-            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
+            "description": "Ningalude WhatsApp account oru chat bot aaki maatunnu! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
         "NO_LOG": {
-            "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
+            "description": "Error log kaanikaathirikaan True kodukkuka. Set true if you don't want to see error log.",
             "required": true,
             "value": "false"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın. Write true if you want to throw seen.",
+            "description": "Incoming messages ayakunna aalkk msgukal seen aayi ennu ariyikkan. Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "Herokuda çalışıyorsa true yazın. If it is running in Heroku, type true.",
+            "description": "If it is running in Heroku, type true.",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key.",
+            "description": "Mukalilathe Account settings ill poyitt heroku api key copy cheyth ivade paste cheyyu. Enter Heroku API Key.",
             "required": true
         },
         "MUTE_MESSAGE": {
