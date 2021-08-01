@@ -26,7 +26,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-memanakizhakathil</a> to make it public
+Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
     <br>
        | © |
         Reserved |
