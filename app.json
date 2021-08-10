@@ -1,15 +1,16 @@
 {
-    "name": "Meenakshi",
-    "description": "Meenakshi - Whatsapp Bot",
+    "name": "Alexa",
+    "description": "Alexa- By Jasim [Jz mods]",
     "logo": "https://avatars.githubusercontent.com/u/87913417?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/vishnu-memanakizhakathil/Meenakshi",
+    "repository": "https://github.com/jasimjz/Alexa",
+    "Jz mods":   "https://t.me/jzmodsofc",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "QR scan aakiyapol kittiya Asena session code enter cheyyuka. Type here yours Asena Session.",
+            "description": "Scan Qr code Type or Paste here yours Asena Session.",
             "required": true
         },
         "SUDO": {
@@ -22,7 +23,7 @@
             "value": "en"
         },
         "BGM_FILTER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "If you likes bgm[audio] you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
         },
@@ -32,32 +33,32 @@
             "value": "true"
         },
         "ANTİ_LİNK": {
-            "description": "Linkukal Block aakan. Link Blocking System.",
+            "description": "Group Link Blocking System.",
             "required": true,
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Whatsapp inte About sectionil date time maarikondirikum set cheyyan true kodukkuka. Set true for auto date, time in biography.",
+            "description": "Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
         },
         "HANDLERS": {
-            "description": "Komutlar için. For commands.",
+            "description": "prefix.",
             "required": true,
             "value": "^[.!;]"
         },
         "FULL_EVA": {
-            "description": "Ningalude WhatsApp account oru chat bot aaki maatunnu! Turn your account into a chatbot!",
+            "description": "Turn On your bot into a chatbot!",
             "required": true,
             "value": "false"
         },
         "NO_LOG": {
-            "description": "Error log kaanikaathirikaan True kodukkuka. Set true if you don't want to see error log.",
+            "description": "Set true if you don't want to see error log.",
             "required": true,
             "value": "false"
         },
         "SEND_READ": {
-            "description": "Incoming messages ayakunna aalkk msgukal seen aayi ennu ariyikkan. Write true if you want to throw seen.",
+            "description": " Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
@@ -67,7 +68,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Mukalilathe Account settings ill poyitt heroku api key copy cheyth ivade paste cheyyu. Enter Heroku API Key.",
+            "description": "Enter Heroku API Key.",
             "required": true
         },
         "MUTE_MESSAGE": {
