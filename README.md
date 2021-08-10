@@ -36,7 +36,7 @@ the user is responsible.
   <img border-radius: 15px src="Alexa.jpg" width="200" height="200"/>
   <p align="center">
 
-## 📢 Guide
+## 📢 ALEXA - WHATSAPP USER BOT
 Click WA logo to Join Support Group 👇
     <br>
 <br>
