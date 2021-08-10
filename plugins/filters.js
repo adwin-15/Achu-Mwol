@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 vishnu-prasad.
+/* Copyright (C) 2020 Muhammed Jasim.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
@@ -55,7 +55,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '916235989299@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/paapan.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Nanban']
+const array = ['Nanban''Sed','Hai']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
