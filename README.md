@@ -33,7 +33,7 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img border-radius: 15px src="https://ibb.co/cTMW2Dh" width="200" height="200"/>
+  <img border-radius: 15px src="68747470733a2f2f6a6173696d70726f2e303030776562686f73746170702e636f6d2f32303231303732345f3135313433332e6a7067.jpeg" width="200" height="200"/>
   <p align="center">
 
 ## 📢 Guide
