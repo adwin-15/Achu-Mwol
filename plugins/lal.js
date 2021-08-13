@@ -6,7 +6,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'hod'son', fromMe: true, desc: 'random anime image'}, (async (message, match) => {
+    Asena.addCommand({pattern: 'findhodson', fromMe: true, desc: 'random anime image'}, (async (message, match) => {
 
     var r_text = new Array ();
 
