@@ -190,7 +190,7 @@
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/RF2__n_R6lU```",
             "DOWNLOADING_VIDEO": "*⬇️𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚢𝚘𝚞𝚛📽𝚟𝚒𝚍𝚎𝚘🧕🏻...*",
-            "UPLOADING_VIDEO": "*⬆️𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚢𝚘𝚞𝚛📽𝚟𝚒𝚍𝚎𝚘🧕🏻...*",
+            "UPLOADING_VIDEO": "*⬆️𝚄𝚙𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚢𝚘𝚞𝚛📽𝚟𝚒𝚍𝚎𝚘🧕🏻...*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```𝚂𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘 𝚕𝚒𝚗𝚔𝚜...```",
