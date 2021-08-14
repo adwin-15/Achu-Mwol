@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 plk-dqz.
+/* Copyright (C) 2021 vishnu-kylm
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsenaDuplicated*/
@@ -7,7 +7,6 @@ WhatsAsenaDuplicated*/
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const got = require('got');
-const Config = require('../config');
 
 const Language = require('../language');
 const Lang = Language.getString('weather');
