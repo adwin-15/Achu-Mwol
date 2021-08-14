@@ -122,9 +122,9 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '918089276308@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Jasim.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Devil.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Error','Nanban','Sed','pokko','Unstoppable','Zaynah','life','Rauf','Terror','Chodhyam','ikka','TMT','Oombi','Ghost', 'Entha','Nature','Bye','Jz','Magu','Alexa','baby','Ramesh','Rameez','Manikyam']
+const array = ['Error','Nanban','Sed','pokko','Unstoppable','Zaynah','life','Rauf','Terror','Chodhyam','ikka','TMT','Oombi','Ghost', 'Entha','Nature','Bye','Jz','Magu','Alexa','baby','Ramesh','Rameez','Manikyam','Sound']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
