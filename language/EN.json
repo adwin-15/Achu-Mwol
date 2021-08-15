@@ -151,7 +151,7 @@
             "KICKME": "*𝙼𝚎𝚎𝚗𝚞𝚝𝚝𝚢 𝚒𝚜 𝚕𝚎𝚊𝚟𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙🙎🏻‍♀️𝙱𝚢𝚎 𝚋𝚢𝚎*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "PPING": "```*𝙲𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌𝚝𝚞𝚛𝚎...*",
+            "PPING": "*𝙲𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌𝚝𝚞𝚛𝚎...*",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
             "BLOCKED": "blocked",
@@ -165,9 +165,9 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*𝐇𝐞𝐲 𝐌𝐢𝐬𝐭𝐞𝐫..𝐆𝐢𝐯𝐞 𝐦𝐞 𝐚 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐦𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐡𝐚𝐭 𝐩𝐡𝐨𝐭𝐨 𝐰𝐢𝐭𝐡 `.𝐫𝐞𝐦𝐨𝐯𝐞𝐛𝐠´...!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "RBGING": "```𝐑𝐞𝐦𝐨𝐯𝐢𝐧𝐠 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -225,9 +225,9 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Meenakshi is completely up-to-date💁🏻‍♀️!*",
-            "NEW_UPDATE": "*⚠️New update available for Meenakshi👩🏻‍🔧!*\n \n```Type .update now for update Meenakshi(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \n🧕🏻Changes:\n```",
+            "NEW_UPDATE": "*⚠️New update available for Meenakshi👩🏻‍🔧!*\n \n```Type .update now for update Meenakshi(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \n🧕🏻C͎h͎a͎n͎g͎e͎s͎...:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "*👩🏻‍🔧 𝚄𝚙𝚍𝚊𝚝𝚒𝚗𝚐 𝚖𝚎𝚎𝚗𝚞𝚝𝚝𝚢...𝙸𝚝 𝚖𝚊𝚢 𝚝𝚊𝚔𝚎 2𝚖𝚒𝚗...*🌈",
+            "UPDATING": "*👩🏻‍🔧 𝚄𝚙𝚍𝚊𝚝𝚒𝚗𝚐 𝚖𝚎𝚎𝚗𝚞𝚝𝚝𝚢...𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚑𝚎𝚌𝚔 𝙷𝚎𝚛𝚘𝚔𝚞 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚝𝚑𝚎 𝚞𝚙𝚍𝚊𝚝𝚎 𝚕𝚘𝚐𝚜...𝚄𝚙𝚍𝚊𝚝𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚏𝚒𝚗𝚒𝚜𝚑 𝚠𝚒𝚝𝚑𝚒𝚗 1-3𝚖𝚒𝚗𝚞𝚝𝚎𝚜*🌈",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅𝚄𝚙𝚍𝚊𝚝𝚎𝚍...💁🏻‍♀️*",
             "UPDATED_LOCAL": "```✅𝚄𝚙𝚍𝚊𝚝𝚎𝚍💁🏻‍♀️```",
