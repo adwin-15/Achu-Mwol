@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ALEXA BOT BY MUHAMMED JASIM*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ````ALEXA BY MUHAMMED JASIM```
 *instagram  : https://www.instagram.com/jz_mods*
 *for bot related videos: https://youtube.com/Jzmods*
 *githublink       https://github.com/Jasimjz/Alexa*
