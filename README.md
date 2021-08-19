@@ -34,6 +34,10 @@ Marketing WhatsAsena for money, making it available or having any material value
 the user is responsible.
 ```
 
+### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
+```
+𝚄𝚗𝚍𝚎𝚛 𝙼𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎🟡
+```
 <div align="center">
   <img border-radius: 15px src="20210819_214946.jpg" width="200" height="200"/>
   <p align="center">
