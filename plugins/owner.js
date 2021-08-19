@@ -18,13 +18,10 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Vishnu Mkz*
-*owner number wa.me/916235989299*
-*instagram  : https://www.instagram.com/ig.zero.x2k_linda?r=nametag*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/vishnu-memanakizhakathil/Meenakshi*
-*audio commads    https://github.com/vishnu-memanakizhakathil/Meenakshi/tree/master/uploads*
-*sticker commads  https://github.com/vishnu-memanakizhakathil/Meenakshi/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ALEXA BOT BY MUHAMMED JASIM*
+*instagram  : https://www.instagram.com/jz_mods*
+*for bot related videos: https://youtube.com/Jzmods*
+*githublink       https://github.com/Jasimjz/Alexa*
 `}) 
 
 }));
