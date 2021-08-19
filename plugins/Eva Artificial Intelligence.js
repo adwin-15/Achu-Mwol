@@ -1,6 +1,4 @@
 /* Codded by Phaticusthiccy
-re edit vishnu-memanakizhakathil
-
 
 Eva, The Phaticusthiccy's Multifunctional Artificial Intelligence
 
@@ -68,7 +66,7 @@ let wk = conf.WORKTYPE == 'public' ? false : true
 var vtalk_dsc = ''
 var reply_eva = ''
 if (conf.LANG == 'TR') vtalk_dsc = 'Eva sesli sohbetini başlatır.', reply_eva = '*Herhangi Bir Sesli Mesaja Yanıt Verin!*'
-if (conf.LANG == 'EN') vtalk_dsc = 'Starts to pinky voice chat.', reply_eva = '*Reply to Any Voice Message!*'
+if (conf.LANG == 'EN') vtalk_dsc = 'Starts to Eva voice chat.', reply_eva = '*Reply to Any Voice Message!*'
 if (conf.LANG == 'AZ') vtalk_dsc = 'Eva səsli söhbətinə başlayır.', reply_eva = '*Hər hansı bir səsli mesaja cavab verin!*'
 if (conf.LANG == 'PT') vtalk_dsc = 'Começa o bate-papo por voz de Eva.', reply_eva = '*Responder a qualquer mensagem de voz!*'
 if (conf.LANG == 'RU') vtalk_dsc = 'Запускает голосовой чат Eva.', reply_eva = '*Ответьте на любое голосовое сообщение!*'
@@ -101,11 +99,11 @@ const convertToWav = file => {
 }
 
 Asena.addCommand({on: 'text', fromMe: wk, dontAddCommandList: true, deleteCommand: false}, (async (message, match) => {
-    if (message.message.startsWith('bot') && conf.FULLEVA !== 'true') {        
+    if (message.message.startsWith('Eva') && conf.FULLEVA !== 'true') {        
         var unique_ident = message.client.user.jid.split('@')[0]      
         let acc = os.userInfo().homedir.split('Whats')[1].split('Duplicated/')[0] == 'Asena' ? '7d57838203msh0c5cf65c90a7231p13b461jsn77c8cfa55871' : '7d57838203msh0c582jak19865261js1229n77c8cfa55871'
         let aitalk_mode = message.message.includes('{normal}') ? 'raw' : 'waifu'
-        var finm = message.message.replace('bot', '').replace(' ', '')   
+        var finm = message.message.replace('Eva', '').replace(' ', '')   
         var ainame = os.userInfo().homedir.split('Whats')[1].split('Duplicated/')[0]
         if (ainame !== 'Asena') return;
         var ldet = lngDetector.detect(finm)
@@ -218,7 +216,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         }
 
 }));
-Asena.addCommand({ pattern: 'vtalk$', desc: vtalk_dsc,dontAddCommandList: true, fromMe: wk }, (async (message, match) => {
+Asena.addCommand({ pattern: 'vtalk$', desc: vtalk_dsc, fromMe: wk }, (async (message, match) => {
     if (!message.reply_message) return await message.client.sendMessage(message.jid,reply_eva, MessageType.text, { quoted: message.data }) 
     try {
         const file = await message.client.downloadAndSaveMediaMessage({
@@ -280,11 +278,11 @@ if (conf.LANG == 'TR') {
     succ_off = 'Eva, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
-    fulleva_dsc = 'Activates full functional Pinky features. Turn your account into a ai chatbot!'
-    already_on = 'Meenakshi artificial intelligence is already fully functional.'
-    already_off = 'Meenakshi artificial intelligence is currently running semi-functional.'
-    succ_on = 'Meenakshi Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Meenakshi Set to Semi-Functional! Please wait a bit! ☑️'
+    fulleva_dsc = 'Activates full functional Eva features. Turn your account into a ai chatbot!'
+    already_on = 'Eva artificial intelligence is already fully functional.'
+    already_off = 'Eva artificial intelligence is currently running semi-functional.'
+    succ_on = 'Eva Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Eva Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'AZ') {
     fulleva_dsc = 'Tam funksional Eva xüsusiyyətlərini aktivləşdirir. Hesabınızı bir chatbot halına gətirin!'
@@ -336,7 +334,7 @@ if (conf.LANG == 'ID') {
     succ_off = 'Eva Set ke Semi-Fungsional! Mohon tunggu sebentar! ☑️'
 }
 
-Asena.addCommand({ pattern: 'fulleva ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.fulleva on / off' }, (async (message, match) => {
+Asena.addCommand({ pattern: 'fulleva ?(.*)', desc: fulleva_dsc, fromMe: true, usage: '.fulleva on / off' }, (async (message, match) => {
     var eva_status = `${conf.FULLEVA}`
     if (match[1] == 'on') {
         if (eva_status == 'true') {
