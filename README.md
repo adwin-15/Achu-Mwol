@@ -37,6 +37,11 @@ the user is responsible.
 <div align="center">
   <img border-radius: 15px src="20210819_214946.jpg" width="200" height="200"/>
   <p align="center">
+
+```
+𝐀𝐧𝐣𝐚𝐥𝐢 𝐜𝐡𝐞𝐜𝐡𝐢 𝐮𝐲𝐢𝐫❤
+```
+
 <a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
@@ -103,9 +108,9 @@ Click WA logo to Join Support Group 👇
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux or download Mozilla FireFox web browser and scan QR code...
 ```
-bash <(curl -L https://t.ly/tHxh)
+----New baileys link will be publish soon---
 ``` 
   
 ### The Hard Method
