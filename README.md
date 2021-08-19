@@ -164,10 +164,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Author, Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
+Author, Base, Bug Fixes, Modules | Modifiying  as   public, Bug Fixes | Bug Fixes, Modules
   </div>
  
 <h3 align="left">Connect with me:</h3>
