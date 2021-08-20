@@ -19,7 +19,6 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ```Alexa by Muhammed Jasim```
-*owner number wa.me/911111111111*
 *for bot related videos: https://youtube.com/Jzmods*
 *instagram  : https://www.instagram.com/jz_mods*
 *githublink       https://github.com/Jasimjz/Alexa*
