@@ -54,11 +54,10 @@ the user is responsible.
 
 - ✅ New Balieys version updated (3.5.2)
 - ✅ New plugins added
-- ✅ Bugs Fixed
+- ✅ Eva Artifical Intelligence Bug Fixed...
 
 ## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
 
-- ⬆️ Updating Eva Artificial Intelligence
 - ⬆️ Instagram Downloader
 - ⬆️ Facebook Downloader(𝐍𝐞𝐰)
 
