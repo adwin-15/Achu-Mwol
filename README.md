@@ -56,6 +56,12 @@ the user is responsible.
 - ✅ New plugins added
 - ✅ Bugs Fixed
 
+## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
+
+- ⬆️ Updating Eva Artificial Intelligence
+- ⬆️ Instagram Downloader
+- ⬆️ Facebook Downloader
+
 
 <div align="center">
   <img border-radius: 15px src="20210820_004326.jpg" width="200" height="200"/>
