@@ -56,6 +56,10 @@ the user is responsible.
 - ✅ New plugins added
 - ✅ Eva Artifical Intelligence Bug Fixed...
 
+```
+   Last Update : 21/Aug/2021 - 11:52am
+```
+
 ## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
 
 - ⬆️ Instagram Downloader
