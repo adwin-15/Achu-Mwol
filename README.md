@@ -47,8 +47,16 @@ the user is responsible.
 
 ### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
 ```
-𝚄𝚗𝚍𝚎𝚛 𝙼𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎🟡
+𝙰𝚌𝚝𝚒𝚟𝚎 🟢
 ```
+
+## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
+
+- ✅ New Balieys version updated
+- ✅ New plugins added
+- ✅ Bugs Fixed
+
+
 <div align="center">
   <img border-radius: 15px src="20210820_004326.jpg" width="200" height="200"/>
   <p align="center">
