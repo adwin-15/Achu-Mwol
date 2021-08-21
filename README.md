@@ -64,12 +64,9 @@ the user is responsible.
 
 
 <div align="center">
-  <img border-radius: 15px src="20210820_004326.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87913417?v=4" width="200" height="200"/>
   <p align="center">
 
-```
-𝐀𝐧𝐣𝐚𝐥𝐢 𝐜𝐡𝐞𝐜𝐡𝐢 𝐮𝐲𝐢𝐫❤
-```
 
 <a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
