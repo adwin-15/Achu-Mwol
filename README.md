@@ -52,7 +52,7 @@ the user is responsible.
 
 ## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
 
-- ✅ New Balieys version updated (3.5.2)
+- ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
 - ✅ New plugins added
 - ✅ Eva Artifical Intelligence Bug Fixed...
 
