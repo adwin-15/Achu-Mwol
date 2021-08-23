@@ -53,7 +53,7 @@ the user is responsible.
 ## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
 
 - ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
-- ✅ New plugins added
+- ✅ New QR updated
 - ✅ Eva Artifical Intelligence Bug Fixed...
 
 ```
@@ -131,7 +131,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Luaser/Meenakshi-and-lua-QR?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
      </div>
