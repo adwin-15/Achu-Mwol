@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 vishnu-kayamkulam.
+/* Copyright (C) 2021 Vai838.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsenaDuplicated
@@ -64,8 +64,8 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          let regex1 = new RegExp('Bro')
          let regex2 = new RegExp('name')
          let regex3 = new RegExp('bot')
-         let regex4 = new RegExp('Meenakshi')
-         let regex5 = new RegExp('Vishnu')
+         let regex4 = new RegExp('Whitedevil')
+         let regex5 = new RegExp('Karthik')
          let regex6 = new RegExp('git')
          let regex7 = new RegExp('Who are you')
          let regex8 = new RegExp('send')
@@ -81,22 +81,22 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
              await message.client.sendMessage(message.jid,'to get all commands type .help', MessageType.text, {quoted: message.data })
          } 
          else if (regex2.test(message.message)) {
-            await message.client.sendMessage(message.jid,'Meenakshi.... ❤ It's my Name...' , MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'my name is meenakshi' , MessageType.text, {quoted: message.data })
          }
           else if (regex3.test(message.message)) {
-             await message.client.sendMessage(message.jid,'Ok..Friend How can I help you😄', MessageType.text, {quoted: message.data })
+             await message.client.sendMessage(message.jid,'yes tell me', MessageType.text, {quoted: message.data })
          }
          else if (regex4.test(message.message)) {
-            await message.client.sendMessage(message.jid,'Hey...Enne Vilicho nee.... 😄', MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'ʏᴇꜱ ᴛʜᴀᴛꜱ ᴍᴇ', MessageType.text, {quoted: message.data })
          }
          else if (regex5.test(message.message)) {
-           await message.client.sendMessage(message.jid,'Vishnu🥰 he is my all.... any he is my love.... 💞', MessageType.text, {quoted: message.data })
+           await message.client.sendMessage(message.jid,'i know him he is my creator', MessageType.text, {quoted: message.data })
          }
           else if (regex6.test(message.message)) {
-            await message.client.sendMessage(message.jid,'\n`Gitlink Innaado... 💞` \n*https://github.com/vishnu-memanakizhakathil/Meenakshi*', MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'\n`Meenakshi ❣️` \n*github.com/vishnu-memanakizhakathil/Meenakshi*', MessageType.text, {quoted: message.data })
          }
           else if (regex7.test(message.message)) {
-            await message.client.sendMessage(message.jid,'```Ente peeru Meenakshi Ninte perenthaa?😊.```', MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'```I am Meenakshi.```', MessageType.text, {quoted: message.data })
          }
           else if (regex8.test(message.message)) {
             await message.client.sendMessage(message.jid,'what', MessageType.text, {quoted: message.data })
@@ -114,7 +114,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
             await message.client.sendMessage(message.jid,'┌ *「 RULES 」* \n│ 🛂 ഉടമയുടെ മേൽനോട്ടം\n │ ✅ ദയവായി അനുസരിക്കുക >_< \n │  \n │ നിയന്ത്രണങ്ങൾ എപ്പോൾ വേണമെങ്കിലും ആകാം സൗകര്യർത്ഥ മാറ്റി \n └──── \n\n 1. കമാൻഡ് ചെയ്യുമ്പോൾ ദയവായി സ്പാം ചെയ്യരുത് \n 2. ബോട്ട് നമ്പറിലേക്ക് വിർടെക്സ്, ബഗ്, ബോംബ് തുടങ്ങിയവ അയയ്ക്കരുത് \n 3. ഉടമയെ അപമാനിക്കുന്നത് അവർ നേരിട്ട് എടുക്കും \n 4. ബോട്ട് കമാൻഡിൽ ഉപയോക്താവ് ചെയ്യുന്നതിന് ബോട്ട്/ഉടമ ഉത്തരവാദിയല്ല \n 5. ബോട്ട് നമ്പറുകളിലേക്ക് വിളിക്കാൻ അനുവാദം ഇല്ല \n 6. EXP/പരിധി/ലെവൽ ചതികൾ നിരോധിച്ചിരിക്കുന്നു \n 7. ബോട്ട് പ്രതികരിക്കുന്നില്ലെങ്കിൽ, അതിനർത്ഥം അത് ഓഫ് എന്നാണ് \n 8. ഏതെങ്കിലും ബഗുകൾ *! റിപ്പോർട്ട് *വഴി റിപ്പോർട്ട് ചെയ്യുക \n\n\n *「 CONSEQUENCES 」* \n 1. നിങ്ങൾ റൂൾ നമ്പർ 5 (കോളിംഗ്) ലംഘിക്കുകയാണെങ്കിൽ നിങ്ങളെ തടയും \n 2. നിങ്ങൾ നിയമങ്ങൾ 1, 2,  \n 3 ലംഘിക്കുകയാണെങ്കിൽ, നിങ്ങൾക്ക് ബോട്ടുകളിൽ നിന്ന് നിരോധിക്കാവുന്നതാണ് \n 4. നിങ്ങൾ റൂൾ നമ്പർ 3 (അപമാനിക്കൽ) ലംഘിക്കുകയാണെങ്കിൽ, നിങ്ങൾക്ക് ബോട്ട് ഉപയോഗിക്കാവുന്നതാണ്', MessageType.text, {quoted: message.data })
          }
          else if (regex13.test(message.message)) {
-            await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM MEEANSKHI USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM MEENAKSHI USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
          }
 
          else if (regex14.test(message.message)) {
