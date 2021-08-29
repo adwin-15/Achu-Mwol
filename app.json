@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "MEENAKSHI_SESSION": {
             "description": "QR scan aakiyapol kittiya Asena session code enter cheyyuka.Type here yours Asena Session.",
             "required": true
         },
