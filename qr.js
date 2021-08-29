@@ -7,60 +7,53 @@ WhatsAsena - Yusuf Usta
 */
 
 const chalk = require('chalk');
-const { WAConnection, MessageType } = require('@adiwajshing/baileys');
+const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
+const {StringSession} = require('./whatsasena/');
 const fs = require('fs');
-async function whatsAsena() {
-  const conn = new WAConnection();
-  conn.logger.level = 'warn';
-  conn.version = [2, 2123, 8]
 
-  conn.on('connecting', async () => {
-    console.log(`${chalk.green.bold('vishnu-memanakizhakathil')}${chalk.green.bold('-Meenakshi')}
-${chalk.white.italic('Meenakshi code recipient')}
-${chalk.blue.bold('ℹ️  Connecting Meenakshi... Please wait.')}`);
-  });
+async function whatsAsena () {
+    const conn = new WAConnection();
+    const Session = new StringSession();  
+    conn.version = [2,2121,7];
+    conn.logger.level = 'warn';
+    conn.regenerateQRIntervalMs = 50000;
+    
+    conn.on('connecting', async () => {
+        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
+${chalk.white.italic('AsenaString Kodu Alıcı')}
 
-  conn.on('open', async () => {
-    console.log(
-      chalk.green.bold('Meenakshi QR Code: '),
-      'Meenakshi;;;' +
-      Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
-        'base64'
-      )
-    );
-    await conn.sendMessage(
-      conn.user.jid,
-      'Meenakshi;;;' +
-      Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
-        'base64'
-      ),
-      MessageType.text
-    );
-    if (conn.user.jid.startsWith('91')) {
-      await conn.sendMessage(
-        conn.user.jid,
-        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Meenakshi Successfully Scanned✅️*\n*▪️Thanks For Choosing Meenakshi💞*',
-        MessageType.text
-      );
-    } else {
-      await conn.sendMessage(
-        conn.user.jid,
-        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Meenakshi Successfully Scanned✅️*\n*▪️Thanks For Choosing Meenakshi💞*',
-        MessageType.text
-      );
-    }
-    console.log(
-      chalk.green.bold(
-        "QR CODE COPY CHEYAAN PATTILA DNNU THONNUNU, NINGALUDE WHATSAPP CHECK CHEYYU ATHIL NJAN QR CODE AYACHITTUND!\n"
-      ),
-      chalk.green.bold(
-        'IF YOU CANNOT COPY THE MESSAGE, PLEASE CHECK WHATSAPP. QR CODE SENT TO YOUR OWN NUMBER!'
-      )
-    );
-    process.exit(0);
-  });
+${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
+    });
+    
 
-  await conn.connect();
+    conn.on('open', async () => {
+        var st = Session.createStringSession(conn.base64EncodedAuthInfo());
+        console.log(
+            chalk.green.bold('Asena String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
+        );
+        
+        if (!fs.existsSync('config.env')) {
+            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
+        }
+        if (conn.user.jid.startsWith('90')) {
+            await conn.sendMessage(conn.user.jid,st, MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*Bu Kodu Kimseyle Paylaşmayın!*', MessageType.text)
+            console.log(
+                chalk.blue.bold('Locale kuruyorsanız node bot.js ile botu başlatabilirsiniz.')
+            );
+        }
+        else {
+            await conn.sendMessage(conn.user.jid,st, MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*Do Not Share This Code With Anyone!*', MessageType.text)
+            console.log(
+                chalk.blue.bold('If you are installing locale, you can start the bot with node bot.js')
+            );
+        }
+        
+        process.exit(0);
+    });
+
+    await conn.connect();
 }
 
-whatsAsena();
+whatsAsena()
