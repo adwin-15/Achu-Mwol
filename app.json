@@ -168,6 +168,16 @@
             "required": true,
             "value": "https://i.hizliresim.com/loUtAb.jpg"
         },
+        "SONGD": {
+            "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
+            "required": true,
+            "value": "*Downloading your song*"
+        },
+        "SONGU": {
+            "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
+            "required": true,
+            "value": "*Feel the song*"
+        },
         "NO_ONLINE": {
             "description": "BOT ONLINE ഇൽ ഇല്ല എന്ന് കാണിക്കുക. Type true if you don't want to appear online.",
             "required": false,
