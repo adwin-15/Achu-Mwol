@@ -54,7 +54,7 @@ the user is responsible.
 
 - ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
 - ✅ New QR updated
-- ✅ Eva Artifical Intelligence Bug Fixed...
+- ❌ Eva Artifical Intelligence Error...
 
 ```
    Last Update : 21/Aug/2021 - 11:52am
