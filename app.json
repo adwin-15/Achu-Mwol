@@ -1,11 +1,11 @@
 {
-    "name": "Achu-Mwol",
-    "description": "Achu-Mwol - Whatsapp Bot",
-    "logo": "https://avatars.githubusercontent.com/u/87913417?v=4",
+    "name": "✰ 𝑬𝒅𝒘𝒊𝒏 𝑺𝒉𝒂𝒋𝒖 ✰",
+    "description": "𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥 - Whatsapp Bot",
+    "logo": "https://imgur.com/gallery/ryWlVfq.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/vishnu-memanakizhakathil/Meenakshi",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/adwin-15/Achu-Mwol",
+    "website":   "https://t.me/joinchat/NmSWe49xiOZjMGNh",
+    "success_url": "https://t.me/joinchat/NmSWe49xiOZjMGNh",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
