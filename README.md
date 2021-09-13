@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Ok+Bie;I'm+going
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=6-Sep-2021+Monday"
             alt="Typing SVG"
         />
     </a>
@@ -16,34 +16,18 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 😇 I'm Edwin Shaju
 - 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 📍 From Koratty Chalakudy,Thrissur,Kerala,🇮🇳
+- 🌐 10.258801,76.338221
+- 🏫 High School at L.F.C.H.S.S.KORATTY
+- 🏫 Now I'm studying 
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
 ```
 
-### Disclaimer ❗
-```
-  
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
+
 
 ### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
 ```
@@ -54,10 +38,10 @@ the user is responsible.
 
 - ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
 - ✅ New QR updated
-- ❌ Eva Artifical Intelligence Error...
+- ✅ Eva Artifical Intelligence Bug Fixed...
 
 ```
-   Last Update : 21/Aug/2021 - 11:52am
+   Last Update : 6/Sep/2021 - 05:45pm
 ```
 
 ## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
@@ -66,80 +50,74 @@ the user is responsible.
 - ⬆️ Facebook Downloader(𝐍𝐞𝐰)
 
 
+
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87913417?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="anima-08-chai8.jpg" width="200" height="200"/>
   <p align="center">
-
-
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Achu-Mwol" src="https://img.shields.io/badge/Achu-Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/adwin-15"><img title="Author" src="https://img.shields.io/badge/adwin15/Achu-Mwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://www.instagram.com/adwin_15?r=nametag">adwin15</a> to make it public
     <br>
-       | © |
+       | Â© |
         Reserved |
     <br> 
 </p>
 
 ----
 
-  <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-memanakizhakathil/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
-</p>
 
-<h1 align="center"> Connect with me
+
+<h3 align="center">Contact Me:</h3>
 <p align="center">
-  <a href="https://instagram.com/phathicusthiccy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/916235989299"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://https://www.facebook.com/danger666host"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/vishnuprasad62"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/vishnu-memanakizhakathil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  
+<a href="https://instagram.com/adwin_15?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
   
 
-<div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
-</details> </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adwin-15&show_icons=true&theme=dark&locale=en" alt="adwin-15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwin-15&theme=dark" alt="adwin-15" /></p>
+</p>
 
 
-## 📢 Guide
+##
+  <h3 align="center">📢 Support Group 1:</h3>
+<p align="center">
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
-  </div>
+  <a href="https://chat.whatsapp.com/JA11kibgijl4pR6GQkgQpD" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
+
+## 
+  <h3 align="center">📢 Support Group 2:</h3>
+<p align="center">
+Click logo to Join Support Group 2 OG👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/BpsrVPddP4uImezkoeMR6R" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
     
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vishnukyk/Meenakshi-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adwin-15/Achu-Mwol.git)
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux or download Mozilla FireFox web browser and scan QR code...
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-----New baileys link will be publish soon---
+bash <(curl -L https://t.ly/tHxh)
 ``` 
   
 ### The Hard Method
@@ -148,8 +126,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/adwin-15/Achu-Mwol
+$ cd Achu-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -158,8 +136,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/adwin-15/Achu-Mwol
+$ cd Achu-Mwol
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -175,7 +153,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/Achu_Mwol) .
 
 ### ⚠️ Warning! 
 ```
@@ -192,34 +170,3 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 തീർച്ചയായും, ഞാനോ അല്ലെങ്കിൽ Asena എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം സ്വീകരിക്കുന്നില്ല.അസേന
 സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 ```
-
-
-
-## Developers
-  <div align="center">
-    
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
-Author, Base, Bug Fixes, Modules | Modifiying  as   public, Bug Fixes | Bug Fixes, Modules
-  </div>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/VISHNUP76080410?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xxirfanx" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCIuejw6s9ofhqTUhE1_ErPw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan yt ff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
-</p>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
-
-
-  
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
