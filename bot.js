@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Meenakshi is Ferfect Ok! 💁🏻‍♀️')
+            chalk.green.bold('𝓐𝓬𝓱𝓾-𝓜𝔀𝓸𝓵  𝐢𝐬 𝑷𝒆𝒓𝒇𝒆𝒄𝒕 𝗼𝗸✌︎ ☺︎︎')
         );
     });
     
@@ -248,7 +248,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝔐𝔢𝔢𝔫𝔞𝔨𝔰𝔥𝔦 ~_____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~🕊️❦︎______~ 𝓐𝓬𝓱𝓾-𝓜𝔀𝓸𝓵 ~_____❦︎🕊️~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
