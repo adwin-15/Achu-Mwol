@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "VishnuPrasad",
+    "AUTHOR": "✰ 𝑬𝒅𝒘𝒊𝒏 𝑺𝒉𝒂𝒋𝒖 ✰",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -29,9 +29,9 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*𝙼𝚎𝚎𝚗𝚞𝚝𝚝𝚢 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙!*",
+            "IM_NOT_ADMIN": "*𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙!*",
             "BANNED": " kicked out of the group🤦🏻‍♀️!",
-            "GIVE_ME_USER": "*𝙴𝚢𝚢 𝚖𝚊𝚗𝚞𝚜𝚑𝚢𝚊..𝙼𝚎𝚗𝚝𝚒𝚘𝚗 𝚊 𝙶𝚛𝚘𝚞𝚙 𝚖𝚎𝚖𝚋𝚎𝚛🤦🏻‍♀️!*",
+            "GIVE_ME_USER": "*𝐸𝑑𝑜𝑜 𝑚𝑎𝑛𝑢𝑠ℎ𝑦𝑎..𝑀𝑒𝑛𝑡𝑖𝑜𝑛 𝑎 𝐺𝑟𝑜𝑢𝑝 𝑀𝑒𝑚𝑏𝑒𝑟 🤦‍♂️!!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
             "ALREADY_PROMOTED": "```How can I make someone admin who is already admin?```",
@@ -75,9 +75,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Meenakshi",
-            "RESTART_MSG": "```Restarting Meenakshi...```",
-            "SHUTDOWN_DESC": "Shutdown Meenakshi",
+            "RESTART_DESC": "Restart 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥",
+            "RESTART_MSG": "```Restarting 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥...```",
+            "SHUTDOWN_DESC": "Shutdown 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -148,7 +148,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "*𝙼𝚎𝚎𝚗𝚞𝚝𝚝𝚢 𝚒𝚜 𝚕𝚎𝚊𝚟𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙🙎🏻‍♀️𝙱𝚢𝚎 𝚋𝚢𝚎*",
+            "KICKME": "*𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥 𝚒𝚜 𝚕𝚎𝚊𝚟𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙🙎🏻‍♀️𝙱𝚢𝚎 𝚋𝚢𝚎*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "*𝙲𝚑𝚊𝚗𝚐𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌𝚝𝚞𝚛𝚎...*",
@@ -211,7 +211,7 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*𝙼𝚎𝚎𝚗𝚞𝚝𝚝𝚢 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙!*",
+            "ADMİN": "*𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗 𝚊𝚍𝚖𝚒𝚗 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚐𝚛𝚘𝚞𝚙!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
             "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
@@ -224,14 +224,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Meenakshi is completely up-to-date💁🏻‍♀️!*",
-            "NEW_UPDATE": "*⚠️New update available for Meenakshi👩🏻‍🔧!*\n \n```Type .update now for update Meenakshi(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \n🧕🏻C͎h͎a͎n͎g͎e͎s͎...:\n```",
+            "UPDATE": "*𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥 is completely up-to-date💁🏻‍♀️!*",
+            "NEW_UPDATE": "*⚠️New update available for 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥👩🏻‍🔧!*\n \n```Type .update now for update 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥(Bot)```\n \n*Please ask support group before updating me! Otherwise get to change error🤷🏻‍♀️*\n \n*Support Group link : https://chat.whatsapp.com/JA11kibgijl4pR6GQkgQpD*\n \n🧕🏻C͎h͎a͎n͎g͎e͎s͎...:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*👩🏻‍🔧 𝚄𝚙𝚍𝚊𝚝𝚒𝚗𝚐 𝚖𝚎𝚎𝚗𝚞𝚝𝚝𝚢...𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚑𝚎𝚌𝚔 𝙷𝚎𝚛𝚘𝚔𝚞 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚝𝚑𝚎 𝚞𝚙𝚍𝚊𝚝𝚎 𝚕𝚘𝚐𝚜...𝚄𝚙𝚍𝚊𝚝𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚏𝚒𝚗𝚒𝚜𝚑 𝚠𝚒𝚝𝚑𝚒𝚗 1-3𝚖𝚒𝚗𝚞𝚝𝚎𝚜*🌈",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅𝚄𝚙𝚍𝚊𝚝𝚎𝚍...💁🏻‍♀️*",
             "UPDATED_LOCAL": "```✅𝚄𝚙𝚍𝚊𝚝𝚎𝚍💁🏻‍♀️```",
-            "AFTER_UPDATE": "*𝚁𝚎𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝙼𝚎𝚎𝚗𝚞𝚝𝚝𝚢🙋🏻‍♀️!...*",
+            "AFTER_UPDATE": "*𝚁𝚎𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝐀𝐜𝐡𝐮-𝐌𝐰𝐨𝐥🙋🏻‍♀️!...*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
