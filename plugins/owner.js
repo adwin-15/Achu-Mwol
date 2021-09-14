@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     
     
    
-  r_text[0] = "https://avatars.githubusercontent.com/u/87913417?v=4";
+  r_text[0] = "anima-08-chai8.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,12 +19,11 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Vishnu Mkz*
-*owner number wa.me/916235989299*
-*instagram  : https://www.instagram.com/ig.zero.x2k_linda?r=nametag*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/vishnu-memanakizhakathil/Meenakshi*
-*audio commads    https://github.com/vishnu-memanakizhakathil/Meenakshi/tree/master/uploads*
-*sticker commads  https://github.com/vishnu-memanakizhakathil/Meenakshi/tree/master/uploads*
+*owner number wa.me/919072719401*
+*instagram  : https://www.instagram.com/adwin_15?r=nametag*
+*githublink       https://github.com/adwin-15/Achu-Mwol*
+*audio commads    https://github.com/adwin-15/Achu-Mwol/tree/master/uploads*
+*sticker commads  https://github.com/adwin-15/Achu-Mwol/tree/master/stickers**
 `}) 
 
 }));
