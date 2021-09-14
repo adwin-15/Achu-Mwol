@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 vishnu-kayamkulam
+/* Copyright (C) 2021 adwin-15
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-MEENKASHI*/
+Achu-Mwol*/
 
 
 const Asena = require('../events');
