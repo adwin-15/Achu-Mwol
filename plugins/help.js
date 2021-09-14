@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'help', fromMe: false, desc: Lang.WP}, (async (messag
     
     
    
-  r_text[0] = "";
+  r_text[0] = "anima-08-chai8.jpg";
     
     
     var i = Math.floor(1*Math.random())
