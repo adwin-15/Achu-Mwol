@@ -11,6 +11,10 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     
     
    
+  r_text[0] = "https://raw.githubusercontent.com/adwin-15/Achu-Mwol/master/anima-08-chai8.jpg";
+    
+    
+
     
     
     var i = Math.floor(1*Math.random())
